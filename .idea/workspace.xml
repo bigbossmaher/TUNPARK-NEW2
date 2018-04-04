@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="624be235-0c94-4a77-a154-c6ca6978f40e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/arch/lifecycle/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/compat/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreui/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/coreutils/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/fragment/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/mediacompat/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/android/support/v4/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/globalization/Globalization$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/globalization/Globalization.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/globalization/GlobalizationError.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/AsyncLoadImage$AsyncLoadImageOptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/AsyncLoadImage$AsyncLoadImageResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/AsyncLoadImage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/AsyncLoadImageInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/BitmapCache.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/CordovaGoogleMaps.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/Environment$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/Environment$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/Environment$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/Environment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPlugin$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPlugin$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPlugin$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$FrontLayerLayout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$Overflow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$ResizeTask$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$ResizeTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout$TouchableWrapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/MyPluginLayout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/ObjectCache.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginAsyncInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginCircle$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginCircle$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginCircle$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginCircle$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginCircle$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginCircle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGeocoder$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGeocoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginGroundOverlay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginKmlOverlay$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginKmlOverlay$KML_TAG.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginKmlOverlay$KmlParserClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginKmlOverlay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginLocationService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$1$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$1$1$2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$1$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$1$1$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$11$1$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$11$1$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$11$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$11$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$23.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$24$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$24$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$24.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$25.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$26.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$27.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$28.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$29.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$31.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$32$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$32.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$33.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$5$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$6$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$AdjustInitCamera.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$AsyncSetOptionsResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$AsyncUpdateCameraPositionResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap$TEXT_STYLE_ALIGNMENTS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$5$1$1$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$5$1$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$5$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$5$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$5$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$6$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$7$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$Animation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker$ICreateMarkerCallback.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$3$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$3$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$BoundBox.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster$STATUS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginMarkerCluster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolygon.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginPolyline.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileOverlay$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileOverlay$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileOverlay$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileOverlay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileProvider$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileProvider$OnCacheClear.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginTileProvider.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginUtil$MyCallbackContext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/classes/debug/plugin/google/maps/PluginUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/AbstractGoogleServiceCommand.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/AddGeofenceCommand$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/AddGeofenceCommand$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/AddGeofenceCommand.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/AssetUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/BeepHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/BootReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/CommandExecutionHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeoNotification.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeoNotificationManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeoNotificationNotifier.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeoNotificationStore.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeofencePlugin$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeofencePlugin$Action.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GeofencePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/GoogleServiceCommandExecutor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/Gson.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/IGoogleServiceCommandListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/LocalStorage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/LocalStorageDBHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/Logger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/Notification.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/ReceiveTransitionsReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/RemoveGeofenceCommand$$Lambda$0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/RemoveGeofenceCommand$$Lambda$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/RemoveGeofenceCommand.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/TransitionJobService$$Lambda$0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/cowbell/cordova/geofence/TransitionJobService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/base/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/license/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/location/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/maps/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/google/android/gms/tasks/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/lampa/startapp/startApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/MainActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$bool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$mipmap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$styleable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R$xml.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/parking/tn/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/Insomnia$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/Insomnia$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/Insomnia.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/actionsheet/ActionSheet$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/actionsheet/ActionSheet$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/actionsheet/ActionSheet$1$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/actionsheet/ActionSheet$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/nl/xservices/plugins/actionsheet/ActionSheet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/device/Device.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$2$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$3$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$3$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$3$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$3$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$4$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$4$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$4$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$4$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$5$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$6$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/dialogs/Notification.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/geolocation/Geolocation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/globalization/Globalization$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/globalization/Globalization.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/globalization/GlobalizationError.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$6$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$6$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$6$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$6$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$6$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppBrowserDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/inappbrowser/InAppChromeClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$4$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$5$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$6$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/splashscreen/SplashScreen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/statusbar/StatusBar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/AsyncLoadImage$AsyncLoadImageResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/AsyncLoadImageInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/Environment$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/Environment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/MyPluginLayout$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginCircle$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginGroundOverlay$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginGroundOverlay$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginKmlOverlay$KmlParserClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginLocationService$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$11$1$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$11$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$32$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$32.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMap$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMarker$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMarker$5$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMarker$5$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginMarkerCluster$BoundBox.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginPolygon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginPolygon$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginPolygon$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginPolygon$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginPolyline$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginPolyline$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/plugin/google/maps/PluginTileOverlay$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/1/za/co/twyst/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/18.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/19.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/20.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/21.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/22.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/23.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/density/debug/output.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/full/debug/output.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/instant-run/debug/output.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/transforms/desugar/debug/__content__.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1924" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TUNPARK-NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TUNPARK-NEW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="624be235-0c94-4a77-a154-c6ca6978f40e" name="Default" comment="" />
+      <created>1522807200146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522807200146</updated>
+      <workItem from="1522807202397" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="212000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1924" height="1048" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.50216216" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.49783784" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

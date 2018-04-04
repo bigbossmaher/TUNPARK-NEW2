@@ -1,0 +1,55 @@
+{
+    "name": "com.parking.tn",
+    "displayName": "TunPark",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "com.lampa.startapp": "^0.1.4",
+        "cordova-android": "^7.0.0",
+        "cordova-plugin-actionsheet": "^2.3.3",
+        "cordova-plugin-add-swift-support": "^1.7.2",
+        "cordova-plugin-compat": "^1.2.0",
+        "cordova-plugin-device": "^2.0.1",
+        "cordova-plugin-dialogs": "^2.0.1",
+        "cordova-plugin-geofence": "git+https://github.com/jupesoftware/cordova-plugin-geofence.git",
+        "cordova-plugin-geolocation": "^4.0.1",
+        "cordova-plugin-globalization": "^1.0.9",
+        "cordova-plugin-googlemaps": "^2.2.9",
+        "cordova-plugin-inappbrowser": "^2.0.2",
+        "cordova-plugin-insomnia": "^4.3.0",
+        "cordova-plugin-splashscreen": "^5.0.2",
+        "cordova-plugin-statusbar": "^2.4.1",
+        "cordova-plugin-whitelist": "^1.3.3",
+        "es6-promise-plugin": "^4.2.2"
+    },
+    "cordova": {
+        "plugins": {
+            "com.lampa.startapp": {},
+            "cordova-plugin-actionsheet": {},
+            "cordova-plugin-add-swift-support": {},
+            "cordova-plugin-compat": {},
+            "cordova-plugin-device": {},
+            "cordova-plugin-dialogs": {},
+            "cordova-plugin-geolocation": {},
+            "cordova-plugin-globalization": {},
+            "cordova-plugin-inappbrowser": {},
+            "cordova-plugin-insomnia": {},
+            "cordova-plugin-splashscreen": {},
+            "cordova-plugin-statusbar": {},
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-googlemaps": {
+                "API_KEY_FOR_ANDROID": "AIzaSyDaOhkS6REe5e7CKZvDeuiC_AYaQmJgKvg"
+            },
+            "cordova-plugin-geofence": {}
+        },
+        "platforms": [
+            "android"
+        ]
+    }
+}
