@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\TUNPARK-NEW\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
+            "outputFile": "/Users/masashi/Documents/workspace/test/TUNPARK-NEW2/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.0.aar\\8d57121f016af2bd6715a412f56b8fb5\\res\\values-te\\values.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/739e23327380bc48de82d73e11c1e123/res/values-te/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\735ef17a869dda9951929c4ff75e27b0\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2780",
-                        "endColumns": "100",
-                        "endOffsets": "2876"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\d43c30d5b57abc5f01179487e260e2ef\\res\\values-te\\values.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c9b28db60381574a8bee4219c60e6b69/res/values-te/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -52,6 +35,23 @@
                         "startOffsets": "1239",
                         "endColumns": "198",
                         "endOffsets": "1433"
+                    }
+                },
+                {
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eef29d2c7767322d7ccd2ed7d12ba0bd/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2780",
+                        "endColumns": "100",
+                        "endOffsets": "2876"
                     }
                 }
             ]

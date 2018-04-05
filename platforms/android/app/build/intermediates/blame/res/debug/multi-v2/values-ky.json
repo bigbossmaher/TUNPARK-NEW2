@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\TUNPARK-NEW\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "/Users/masashi/Documents/workspace/test/TUNPARK-NEW2/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\d43c30d5b57abc5f01179487e260e2ef\\res\\values-ky\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "220",
-                        "endOffsets": "467"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1250",
-                        "endColumns": "220",
-                        "endOffsets": "1466"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\735ef17a869dda9951929c4ff75e27b0\\res\\values-ky\\values-ky.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eef29d2c7767322d7ccd2ed7d12ba0bd/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.0.aar\\8d57121f016af2bd6715a412f56b8fb5\\res\\values-ky\\values.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/739e23327380bc48de82d73e11c1e123/res/values-ky/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,213,394,525,634,838,967,1112,1471,1699,1808,1989,2121,2317,2514,2608,2698",
                         "endColumns": "107,180,130,108,203,128,144,137,227,108,180,131,195,196,93,89,106",
                         "endOffsets": "208,389,520,629,833,962,1107,1245,1694,1803,1984,2116,2312,2509,2603,2693,2800"
+                    }
+                },
+                {
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c9b28db60381574a8bee4219c60e6b69/res/values-ky/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "220",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1250",
+                        "endColumns": "220",
+                        "endOffsets": "1466"
                     }
                 }
             ]

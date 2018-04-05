@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\TUNPARK-NEW\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "/Users/masashi/Documents/workspace/test/TUNPARK-NEW2/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\d43c30d5b57abc5f01179487e260e2ef\\res\\values-de\\values.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c9b28db60381574a8bee4219c60e6b69/res/values-de/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\TUNPARK-NEW\\platforms\\android\\app\\src\\main\\res\\values-de\\pgm_strings.xml",
+                    "source": "/Users/masashi/Documents/workspace/test/TUNPARK-NEW2/platforms/android/app/src/main/res/values-de/pgm_strings.xml",
                     "from": {
                         "startLines": "3,19,2,5,4,6,7,8,9,10,11,12,14,15,18,16,17",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.0.aar\\8d57121f016af2bd6715a412f56b8fb5\\res\\values-de\\values.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/739e23327380bc48de82d73e11c1e123/res/values-de/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sammoudi Maher\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\735ef17a869dda9951929c4ff75e27b0\\res\\values-de\\values-de.xml",
+                    "source": "/Users/masashi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/eef29d2c7767322d7ccd2ed7d12ba0bd/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

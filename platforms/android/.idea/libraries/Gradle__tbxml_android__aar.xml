@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: tbxml-android:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/e73fd1196811fb45879713f473ddb641/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/e73fd1196811fb45879713f473ddb641/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

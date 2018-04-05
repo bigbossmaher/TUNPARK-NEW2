@@ -11,7 +11,7 @@
     "license": "Apache-2.0",
     "dependencies": {
         "com.lampa.startapp": "^0.1.4",
-        "cordova-android": "^7.0.0",
+        "cordova-android": "^7.1.0",
         "cordova-plugin-actionsheet": "^2.3.3",
         "cordova-plugin-add-swift-support": "^1.7.2",
         "cordova-plugin-compat": "^1.2.0",
@@ -43,10 +43,13 @@
             "cordova-plugin-splashscreen": {},
             "cordova-plugin-statusbar": {},
             "cordova-plugin-whitelist": {},
+            "cordova-plugin-geofence": {},
             "cordova-plugin-googlemaps": {
-                "API_KEY_FOR_ANDROID": "AIzaSyDaOhkS6REe5e7CKZvDeuiC_AYaQmJgKvg"
-            },
-            "cordova-plugin-geofence": {}
+                "API_KEY_FOR_ANDROID": "AIzaSyDoGU-q2R8gI3C2YdOheaCLTKl8rHshV9A",
+                "API_KEY_FOR_IOS": "AIzaSyDoGU-q2R8gI3C2YdOheaCLTKl8rHshV9A",
+                "PLAY_SERVICES_VERSION": "12.0.0",
+                "ANDROID_SUPPORT_V4_VERSION": "24.1.0"
+            }
         },
         "platforms": [
             "android"

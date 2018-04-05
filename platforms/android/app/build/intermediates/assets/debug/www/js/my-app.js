@@ -213,7 +213,7 @@ $$('.save-car-place').on('click', function () {
         map.addMarker({
             'position': location.latLng,
             'title': "Votre Voiture est ici",
-            'icon': 'www/icons/car.png',
+            'icon': 'icons/car.png',
             'animation': plugin.google.maps.Animation.DROP,
         }, function (marker) {
             marker.showInfoWindow();
@@ -829,7 +829,7 @@ function showMapParkingData() {
                     'lng': storedData.lng
                 },
                 'title': "Votre Voiture est ici",
-                'icon': 'www/icons/car.png',
+                'icon': 'icons/car.png',
                 'animation': plugin.google.maps.Animation.DROP,
             }, function (marker) {
                 marker.showInfoWindow();
@@ -875,13 +875,13 @@ function plotMarkers(data, callback) {
             //console.log(parking);
         }
     });
-    // console.log(data);
     var mvcArray = new plugin.google.maps.BaseArrayClass(data);
     if ((Object.keys(parking_Markers)).length === 0) {
         //-------------------------------------
         // Create markers for the first time
         //-------------------------------------
         mvcArray.map(function (markerOptions, cb) {
+            markerOptions.icon = markerOptions.icon.replace("www/", "");
             map.addMarker(markerOptions, cb);
         }, function (markers) {
 
@@ -912,7 +912,7 @@ function onEtatActuelle_change(oldValue, newValue) {
     var marker = this;
     //console.log(marker.get("idparking", oldValue + " -> " + newValue));
     newValue = newValue || "0";
-    marker.setIcon("www/icons/parking" + newValue + ".png");
+    marker.setIcon("icons/parking" + newValue + ".png");
 }
 
 function findExtraInfo(parkingId) {

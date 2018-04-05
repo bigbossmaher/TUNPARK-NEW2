@@ -740,5 +740,6 @@ module.exports = {
 if (cordova && cordova.platformId === "browser") {
   require('cordova/exec/proxy').add('common', module.exports);
 }
+window.common = module.exports;
 
 });

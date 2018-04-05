@@ -32,12 +32,6 @@
     "cordova-plugin-globalization": {
       "PACKAGE_NAME": "com.parking.tn"
     },
-    "cordova-plugin-googlemaps": {
-      "API_KEY_FOR_ANDROID": "AIzaSyDaOhkS6REe5e7CKZvDeuiC_AYaQmJgKvg",
-      "PLAY_SERVICES_VERSION": "12.0.0",
-      "ANDROID_SUPPORT_V4_VERSION": "24.1.0",
-      "PACKAGE_NAME": "com.parking.tn"
-    },
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "com.parking.tn"
     },
@@ -51,6 +45,12 @@
       "PACKAGE_NAME": "com.parking.tn"
     },
     "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.parking.tn"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyDoGU-q2R8gI3C2YdOheaCLTKl8rHshV9A",
+      "PLAY_SERVICES_VERSION": "12.0.0",
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.0",
       "PACKAGE_NAME": "com.parking.tn"
     }
   },

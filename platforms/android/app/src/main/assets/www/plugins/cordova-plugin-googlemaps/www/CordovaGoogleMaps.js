@@ -220,13 +220,19 @@ CordovaGoogleMaps.prototype.putHtmlElements = function() {
     var map = self.MAPS[mapId];
     var isTouchable = (map &&
       map.getVisible() &&
-      map.getClickable() &&
+      //map.getClickable() &&
       map.getDiv() &&
       common.shouldWatchByNative(map.getDiv()));
     if (isTouchable) {
       var elemId = common.getPluginDomId(map.getDiv());
       var domInfo = self.domPositions[elemId];
       isTouchable = domInfo.size.width * domInfo.size.height > 0;
+    } else {
+      if (map && map.getDiv()) {
+        console.log(common.getStyle(map.getDiv(), "visibility"), common.getStyle(map.getDiv(), "display"), common.shouldWatchByNative(map.getDiv()));
+      } else {
+        console.log(map, map.getDiv());
+      }
     }
     map.set("__isAttached", isTouchable);
     return isTouchable;
